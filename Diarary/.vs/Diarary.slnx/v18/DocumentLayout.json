@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\models\\dairyentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\models\\dairyentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\migrations\\20251204144043_addedseedingdatadiaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E74C4FB-5DA2-04C9-1D8D-67B734DF8846}|DiararyApp\\DiararyApp.csproj|solutionrelative:diararyapp\\migrations\\20251204144043_addedseedingdatadiaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,29 +42,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\Home\\MyPage.cshtml",
-              "RelativeDocumentMoniker": "DiararyApp\\Views\\Home\\MyPage.cshtml",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\Home\\MyPage.cshtml",
-              "RelativeToolTip": "DiararyApp\\Views\\Home\\MyPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T12:22:14.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Program.cs",
               "RelativeDocumentMoniker": "DiararyApp\\Program.cs",
               "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Program.cs",
               "RelativeToolTip": "DiararyApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T12:12:32.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:47:53.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251204144043_AddedSeedingDataDiaryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Migrations\\20251204144043_AddedSeedingDataDiaryEntry.cs",
+              "RelativeDocumentMoniker": "DiararyApp\\Migrations\\20251204144043_AddedSeedingDataDiaryEntry.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Migrations\\20251204144043_AddedSeedingDataDiaryEntry.cs",
+              "RelativeToolTip": "DiararyApp\\Migrations\\20251204144043_AddedSeedingDataDiaryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:40:43.714Z"
             },
             {
               "$type": "Document",
@@ -70,35 +72,45 @@
               "RelativeDocumentMoniker": "DiararyApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DiararyApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T08:21:43.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DiararyApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DiararyApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T08:20:45.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T14:04:25.041Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "DiararyApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "DiararyApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "RelativeDocumentMoniker": "DiararyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "RelativeToolTip": "DiararyApp\\Views\\DiaryEntries\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T13:56:21.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DairyEntry.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Models\\DairyEntry.cs",
+              "RelativeDocumentMoniker": "DiararyApp\\Models\\DairyEntry.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Models\\DairyEntry.cs",
+              "RelativeToolTip": "DiararyApp\\Models\\DairyEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T08:15:21.926Z",
+              "WhenOpened": "2025-12-04T09:31:21.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DiararyApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DiararyApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:20:53.296Z",
               "EditorCaption": ""
             }
           ]
