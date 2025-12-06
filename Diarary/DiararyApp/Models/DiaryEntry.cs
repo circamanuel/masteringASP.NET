@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace DiararyApp.Models
+namespace DiaryApp.Models
 {
-    public class DairyEntry
+    public class DiaryEntry
     {
         public int Id { get; set; }
 

@@ -3477,9 +3477,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\DiararyApp.csproj",
-      "projectName": "DiararyApp",
-      "projectPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\DiararyApp.csproj",
+      "projectUniqueName": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\DiaryApp.csproj",
+      "projectName": "DiaryApp",
+      "projectPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\DiaryApp.csproj",
       "packagesPath": "C:\\Users\\manu_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\obj\\",
       "projectStyle": "PackageReference",

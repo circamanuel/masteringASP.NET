@@ -1,4 +1,4 @@
-namespace DiararyApp.Models
+namespace DiaryApp.Models
 {
     public class ErrorViewModel
     {

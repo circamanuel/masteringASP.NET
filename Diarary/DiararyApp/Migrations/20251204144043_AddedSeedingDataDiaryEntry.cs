@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace DiararyApp.Migrations
+namespace DiaryApp.Migrations
 {
     /// <inheritdoc />
     public partial class AddedSeedingDataDiaryEntry : Migration

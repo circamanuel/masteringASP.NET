@@ -1,8 +1,8 @@
-﻿using DiararyApp.Models;
+﻿using DiaryApp.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
 
-namespace DiararyApp.Data
+namespace DiaryApp.Data
 {
     public class ApplicationDbContext : DbContext
     {
@@ -11,23 +11,23 @@ namespace DiararyApp.Data
 
         }
 
-        public DbSet<DairyEntry> DiaryEntries { get; set; }
+        public DbSet<DiaryEntry> DiaryEntries { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.Entity<DairyEntry>().HasData(
-               new DairyEntry { Id = 1, 
+            modelBuilder.Entity<DiaryEntry>().HasData(
+               new DiaryEntry { Id = 1, 
                    Title="Went Hiking",
                    Content="Went hiking with Joe!",
                    Create = DateTime.Now}, 
 
-               new DairyEntry { Id = 2, 
+               new DiaryEntry { Id = 2, 
                    Title="Went Shopping",
                    Content="Went Shopping with Joe!",
                    Create = DateTime.Now},
 
-               new DairyEntry { Id = 3, 
+               new DiaryEntry { Id = 3, 
                    Title="Went Diving",
                    Content="Went Diving with Joe!",
                    Create = DateTime.Now}

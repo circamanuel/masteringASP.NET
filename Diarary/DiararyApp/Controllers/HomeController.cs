@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using DiararyApp.Models;
+using DiaryApp.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DiararyApp.Controllers
+namespace DiaryApp.Controllers
 {
     public class HomeController : Controller
     {

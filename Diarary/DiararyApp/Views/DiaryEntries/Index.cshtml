@@ -1,1 +1,25 @@
-﻿hello and welcome to our dirayentries index
+﻿@model List<DiaryEntry>
+
+<div class="table-responsive">
+	<table class="table table-striped table-hover">
+		<thead>
+			<tr>
+				<th>Title</th>
+				<th>Content</th>
+				<th>Date</th>
+				<th>Actions</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var entry in Model)
+			{
+				<tr>
+					<td>@entry.Title</td>
+					<td>@entry.Content</td>
+					<td>@entry.Create</td>
+					<td>Edit and delete</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>

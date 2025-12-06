@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace DiararyApp.Migrations
+namespace DiaryApp.Migrations
 {
     /// <inheritdoc />
     public partial class AddDiaryEntryTable : Migration
