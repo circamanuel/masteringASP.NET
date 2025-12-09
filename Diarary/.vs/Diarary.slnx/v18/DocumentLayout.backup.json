@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|solutionrelative:diararyapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|solutionrelative:diararyapp\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|solutionrelative:diararyapp\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|solutionrelative:diararyapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\views\\diaryentries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|solutionrelative:diararyapp\\views\\diaryentries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\views\\diaryentries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|solutionrelative:diararyapp\\views\\diaryentries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|solutionrelative:diararyapp\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|solutionrelative:diararyapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Index.cshtml",
               "RelativeDocumentMoniker": "DiararyApp\\Views\\DiaryEntries\\Index.cshtml",
               "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Index.cshtml",
               "RelativeToolTip": "DiararyApp\\Views\\DiaryEntries\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-04T13:56:21.462Z",
               "IsPinned": true,
@@ -52,38 +60,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DiararyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "RelativeToolTip": "DiararyApp\\Views\\DiaryEntries\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T13:05:31.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DiararyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "RelativeToolTip": "DiararyApp\\Views\\DiaryEntries\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-09T10:57:44.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Create.cshtml",
               "RelativeDocumentMoniker": "DiararyApp\\Views\\DiaryEntries\\Create.cshtml",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Create.cshtml*",
-              "RelativeToolTip": "DiararyApp\\Views\\DiaryEntries\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "RelativeToolTip": "DiararyApp\\Views\\DiaryEntries\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-08T11:30:02.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DiaryEntriesController.cs",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Controllers\\DiaryEntriesController.cs",
               "RelativeDocumentMoniker": "DiararyApp\\Controllers\\DiaryEntriesController.cs",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Controllers\\DiaryEntriesController.cs",
-              "RelativeToolTip": "DiararyApp\\Controllers\\DiaryEntriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Controllers\\DiaryEntriesController.cs*",
+              "RelativeToolTip": "DiararyApp\\Controllers\\DiaryEntriesController.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv2cAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T16:24:11.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "DiaryEntry.cs",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Models\\DiaryEntry.cs",
               "RelativeDocumentMoniker": "DiararyApp\\Models\\DiaryEntry.cs",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Models\\DiaryEntry.cs*",
-              "RelativeToolTip": "DiararyApp\\Models\\DiaryEntry.cs*",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Models\\DiaryEntry.cs",
+              "RelativeToolTip": "DiararyApp\\Models\\DiaryEntry.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T09:31:21.533Z",
@@ -91,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DiararyApp\\Data\\ApplicationDbContext.cs",
@@ -99,8 +133,7 @@
               "RelativeToolTip": "DiararyApp\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAkwBsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T14:20:53.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T14:20:53.296Z"
             }
           ]
         }
