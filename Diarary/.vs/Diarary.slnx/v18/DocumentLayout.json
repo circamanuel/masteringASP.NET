@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\diarary\\diararyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D530A5C0-61A4-5FA4-29BB-D8D0058BAA6B}|DiararyApp\\DiaryApp.csproj|solutionrelative:diararyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DiararyApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Diarary\\DiararyApp\\appsettings.json",
+              "RelativeToolTip": "DiararyApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T13:28:22.819Z",
+              "EditorCaption": ""
             }
           ]
         }
