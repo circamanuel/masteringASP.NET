@@ -63,7 +63,7 @@ namespace WebDiaryAPI.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(diaryEntry.Id).State = EntityState.Modified;
+            _context.Entry(diaryEntry).State = EntityState.Modified;
 
             try
             {
@@ -71,9 +71,36 @@ namespace WebDiaryAPI.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-
+                if (!DiaryEntryExists(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
             }
-             
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteDiaryEntry(int id)
+        {
+            var diaryEntry = await _context.DiaryEntries.FindAsync(id);
+            if (diaryEntry == null)
+            {
+                return NotFound();
+            }
+            _context.DiaryEntries.Remove(diaryEntry);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+
+        private bool DiaryEntryExists(int id)
+        {
+            return _context.DiaryEntries.Any(e => e.Id == id);
         }
 
     }
