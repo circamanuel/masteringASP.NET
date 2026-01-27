@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92EFABB7-6E53-45E6-BF4A-611D6A9B35FD}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{92EFABB7-6E53-45E6-BF4A-611D6A9B35FD}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92EFABB7-6E53-45E6-BF4A-611D6A9B35FD}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\migrations\\20260126210052_create-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92EFABB7-6E53-45E6-BF4A-611D6A9B35FD}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\migrations\\20260126210052_create-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92EFABB7-6E53-45E6-BF4A-611D6A9B35FD}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92EFABB7-6E53-45E6-BF4A-611D6A9B35FD}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92EFABB7-6E53-45E6-BF4A-611D6A9B35FD}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92EFABB7-6E53-45E6-BF4A-611D6A9B35FD}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\migrations\\20260126210052_create-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\migrations\\20260126210052_create-database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DevSpot\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DevSpot\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-27T12:34:12.951Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20260126210052_create-database.cs",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Migrations\\20260126210052_create-database.cs",
               "RelativeDocumentMoniker": "DevSpot\\Migrations\\20260126210052_create-database.cs",
               "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Migrations\\20260126210052_create-database.cs",
               "RelativeToolTip": "DevSpot\\Migrations\\20260126210052_create-database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T21:00:53.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T21:00:53.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\appsettings.json",
               "RelativeDocumentMoniker": "DevSpot\\appsettings.json",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\appsettings.json*",
-              "RelativeToolTip": "DevSpot\\appsettings.json*",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\appsettings.json",
+              "RelativeToolTip": "DevSpot\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-26T20:45:33.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-26T20:45:33.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Program.cs",
               "RelativeDocumentMoniker": "DevSpot\\Program.cs",
               "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Program.cs",
               "RelativeToolTip": "DevSpot\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T20:40:04.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DevSpot\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "DevSpot\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T20:23:50.099Z",
               "EditorCaption": ""
