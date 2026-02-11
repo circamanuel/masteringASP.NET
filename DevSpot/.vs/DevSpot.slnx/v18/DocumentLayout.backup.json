@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\data\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\data\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C77C2E2-E821-4459-9B61-E7AB7E1F2B8C}|DevSpot.Tests\\DevSpot.Tests.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot.tests\\jobpostingrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C77C2E2-E821-4459-9B61-E7AB7E1F2B8C}|DevSpot.Tests\\DevSpot.Tests.csproj|solutionrelative:devspot.tests\\jobpostingrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\repositories\\jobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\repositories\\jobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RoleSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Data\\RoleSeeder.cs",
-              "RelativeDocumentMoniker": "DevSpot\\Data\\RoleSeeder.cs",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Data\\RoleSeeder.cs*",
-              "RelativeToolTip": "DevSpot\\Data\\RoleSeeder.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T17:11:34.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Program.cs",
-              "RelativeDocumentMoniker": "DevSpot\\Program.cs",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Program.cs*",
-              "RelativeToolTip": "DevSpot\\Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAANAAAAAAAAAA==",
+              "Title": "JobPostingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Repositories\\JobPostingRepository.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Repositories\\JobPostingRepository.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Repositories\\JobPostingRepository.cs",
+              "RelativeToolTip": "DevSpot\\Repositories\\JobPostingRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T20:40:04.639Z",
+              "WhenOpened": "2026-02-11T21:12:02.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Constants\\Roles.cs",
-              "RelativeDocumentMoniker": "DevSpot\\Constants\\Roles.cs",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Constants\\Roles.cs*",
-              "RelativeToolTip": "DevSpot\\Constants\\Roles.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "JobPostingRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot.Tests\\JobPostingRepositoryTests.cs",
+              "RelativeDocumentMoniker": "DevSpot.Tests\\JobPostingRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot.Tests\\JobPostingRepositoryTests.cs*",
+              "RelativeToolTip": "DevSpot.Tests\\JobPostingRepositoryTests.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvzYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T16:55:44.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\appsettings.json",
-              "RelativeDocumentMoniker": "DevSpot\\appsettings.json",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\appsettings.json",
-              "RelativeToolTip": "DevSpot\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-26T20:45:33.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DevSpot\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DevSpot\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T20:23:50.099Z",
+              "WhenOpened": "2026-02-11T17:21:02.19Z",
               "EditorCaption": ""
             }
           ]

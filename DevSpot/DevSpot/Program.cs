@@ -2,6 +2,8 @@ using DevSpot.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using DevSpot.Constants;
+using DevSpot.Repositories;
+using DevSpot.Models;
 
 namespace DevSpot
 {
@@ -25,6 +27,8 @@ namespace DevSpot
                 .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
+            builder.Services.AddScoped<IRepository<JobPosting>, JobPostingRepository>();
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
@@ -42,6 +46,7 @@ namespace DevSpot
             {
                 var services = scope.ServiceProvider;
                 RoleSeeder.SeedRolesAsync(services).Wait();
+                UserSeeder.SeedUsersAsync(services).Wait();
             }
 
             app.UseHttpsRedirection();
