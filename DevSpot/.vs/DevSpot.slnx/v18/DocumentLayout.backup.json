@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\repositories\\jobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\repositories\\jobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Models\\JobPosting.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Models\\JobPosting.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Models\\JobPosting.cs",
+              "RelativeToolTip": "DevSpot\\Models\\JobPosting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T19:23:12.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "DevSpot\\Repositories\\JobPostingRepository.cs",
               "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Repositories\\JobPostingRepository.cs",
               "RelativeToolTip": "DevSpot\\Repositories\\JobPostingRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T21:12:02.414Z",
               "EditorCaption": ""
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "DevSpot.Tests\\JobPostingRepositoryTests.cs",
               "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot.Tests\\JobPostingRepositoryTests.cs*",
               "RelativeToolTip": "DevSpot.Tests\\JobPostingRepositoryTests.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvzYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAUwK4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T17:21:02.19Z",
               "EditorCaption": ""
