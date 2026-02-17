@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\controllers\\jobpostingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\controllers\\jobpostingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\views\\jobpostings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\views\\jobpostings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\viewmodels\\jobpostingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\viewmodels\\jobpostingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\devspot\\devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF555EBD-F8CC-85DF-A3EE-B0B28687C006}|DevSpot\\DevSpot.csproj|solutionrelative:devspot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobPostingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\ViewModels\\JobPostingViewModel.cs",
+              "RelativeDocumentMoniker": "DevSpot\\ViewModels\\JobPostingViewModel.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\ViewModels\\JobPostingViewModel.cs",
+              "RelativeToolTip": "DevSpot\\ViewModels\\JobPostingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:36:06.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Models\\JobPosting.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Models\\JobPosting.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Models\\JobPosting.cs",
+              "RelativeToolTip": "DevSpot\\Models\\JobPosting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T19:27:26.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Views\\JobPostings\\Create.cshtml",
+              "RelativeDocumentMoniker": "DevSpot\\Views\\JobPostings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Views\\JobPostings\\Create.cshtml",
+              "RelativeToolTip": "DevSpot\\Views\\JobPostings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T20:11:54.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DevSpot\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DevSpot\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-16T19:55:27.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Program.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Program.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Program.cs",
+              "RelativeToolTip": "DevSpot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T20:53:02.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobPostingsController.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Controllers\\JobPostingsController.cs",
+              "RelativeDocumentMoniker": "DevSpot\\Controllers\\JobPostingsController.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\DevSpot\\DevSpot\\Controllers\\JobPostingsController.cs*",
+              "RelativeToolTip": "DevSpot\\Controllers\\JobPostingsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T20:52:13.756Z",
+              "EditorCaption": ""
             }
           ]
         }
