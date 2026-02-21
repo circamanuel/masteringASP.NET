@@ -1,11 +1,13 @@
 ﻿using DevSpot.Models;
 using DevSpot.Repositories;
 using DevSpot.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevSpot.Controllers
 {
+    [Authorize]
     public class JobPostingsController : Controller
     {
         private readonly IRepository<JobPosting> _repository; 
@@ -19,17 +21,20 @@ namespace DevSpot.Controllers
             _userManager = userManager;
         }
 
+        [AllowAnonymous]
         public  async Task<IActionResult> Index()
         {
             var jobPostings = await _repository.GetAllAsync();
             return View(jobPostings);
         }
 
+        [Authorize(Roles ="Admin, Employer")]
         public IActionResult Create()
         {
             return View();
         }
 
+        [Authorize(Roles ="Admin, Employer")]
         [HttpPost]
         public async Task<IActionResult> Create(JobPostingViewModel jobPostingVm)
         {
@@ -45,8 +50,17 @@ namespace DevSpot.Controllers
                 };
 
                 await _repository.AddAsync(jobPosting); 
+                return RedirectToAction(nameof(Index));
             }
-            return RedirectToAction(nameof(Index));
+
+            return View(jobPostingVm);
+        }
+
+        [HttpDelete]
+        [Authorize(Roles ="Admin, Employer")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            return Ok();
         }
     }
 }
