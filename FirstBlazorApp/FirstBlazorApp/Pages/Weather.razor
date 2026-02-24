@@ -1,4 +1,5 @@
 ﻿@page "/weather"
+@using System.Text.Json.Serialization
 @inject HttpClient Http
 
 <PageTitle>Weather</PageTitle>
@@ -7,29 +8,33 @@
 
 <p>This component demonstrates fetching data from the server.</p>
 
+<h4>Enter city</h4>
+<input type="text" @bind="@City" />
+
 @if (forecasts == null)
 {
     <p><em>Loading...</em></p>
 }
 else
 {
+    <h4>Today: @forecasts[0].Day</h4>
+    <p>Wind: @forecasts[0].Wind</p>
+    <p>Temp (C): @forecasts[0].Temperature</p>
     <table class="table">
         <thead>
             <tr>
                 <th>Date</th>
                 <th aria-label="Temperature in Celsius">Temp. (C)</th>
-                <th aria-label="Temperature in Fahrenheit">Temp. (F)</th>
-                <th>Summary</th>
+                <th>Wind speed in km/h</th>
             </tr>
         </thead>
         <tbody>
             @foreach (var forecast in forecasts)
             {
                 <tr>
-                    <td>@forecast.Date.ToShortDateString()</td>
-                    <td>@forecast.TemperatureC</td>
-                    <td>@forecast.TemperatureF</td>
-                    <td>@forecast.Summary</td>
+                    <td>@forecast.Day</td>
+                    <td>@forecast.Temperature</td>
+                    <td>@forecast.Wind</td>
                 </tr>
             }
         </tbody>
@@ -37,21 +42,49 @@ else
 }
 
 @code {
-    private WeatherForecast[]? forecasts;
-
+    private List<Forecast>? forecasts;
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+        var weather = await Http.GetFromJsonAsync<WeatherForecast>("forecast?latitude=47.3667&longitude=8.55&daily=temperature_2m_max,wind_speed_10m_max&models=icon_seamless&timezone=Europe%2FBerlin&forecast_days=3");
+
+        // combine Arrays to object
+        forecasts = new List<Forecast>();
+
+        for (int i = 0; i < weather.Daily.Time.Count; i++)
+        {
+            forecasts.Add(new Forecast
+            {
+                Day = weather.Daily.Time[i],
+                Temperature = weather.Daily.Temperature_2m_Max[i].ToString(),
+                Wind = weather.Daily.Wind_Speed_10m_Max[i].ToString()
+            }); 
+        }
     }
 
-    public class WeatherForecast
+    public partial class WeatherForecast
     {
-        public DateOnly Date { get; set; }
+        public double Latitude { get; set; }
+        public double Longitude { get; set; }
+        public string? Timezone { get; set; }
+        public Daily? Daily { get; set; }
+    }
 
-        public int TemperatureC { get; set; }
+    public class Forecast
+    {
+        public string? Day { get; set; }
+        public string? Temperature { get; set; }
+        public string? Wind { get; set; }
+    }
 
-        public string? Summary { get; set; }
-
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+    public class Daily
+    {
+        [JsonPropertyName("time")]
+        public List<string>? Time { get; set; }
+    
+        [JsonPropertyName("temperature_2m_max")]
+        public List<double>? Temperature_2m_Max { get; set; }
+    
+        [JsonPropertyName("wind_speed_10m_max")]
+        public List<double>? Wind_Speed_10m_Max { get; set; }
     }
 }

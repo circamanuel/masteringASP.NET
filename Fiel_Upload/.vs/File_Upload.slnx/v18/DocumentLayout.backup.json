@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\fiel_upload\\fiel_upload\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|solutionrelative:fiel_upload\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\fiel_upload\\fiel_upload\\services\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|solutionrelative:fiel_upload\\services\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\fiel_upload\\fiel_upload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|solutionrelative:fiel_upload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\fiel_upload\\fiel_upload\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|solutionrelative:fiel_upload\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\File_Upload.slnx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:File_Upload.slnx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\fiel_upload\\fiel_upload\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|solutionrelative:fiel_upload\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|c:\\users\\manu_\\source\\repos\\asp.net\\fiel_upload\\fiel_upload\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D7D61D3-ED45-48FC-BE0E-3EA9E2F9122C}|Fiel_Upload\\File_Upload.csproj|solutionrelative:fiel_upload\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Fiel_Upload\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Components\\_Imports.razor",
+              "RelativeToolTip": "Fiel_Upload\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T19:45:00.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "File_Upload.slnx",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\File_Upload.slnx",
+              "RelativeDocumentMoniker": "File_Upload.slnx",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\File_Upload.slnx",
+              "RelativeToolTip": "File_Upload.slnx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002855|",
+              "WhenOpened": "2026-02-24T19:45:05.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Fiel_Upload\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Fiel_Upload\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T19:45:00.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Fiel_Upload\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Components\\App.razor",
+              "RelativeToolTip": "Fiel_Upload\\Components\\App.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T19:45:00.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Program.cs",
+              "RelativeDocumentMoniker": "Fiel_Upload\\Program.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Program.cs",
+              "RelativeToolTip": "Fiel_Upload\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:35:52.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Services\\FileUpload.cs",
+              "RelativeDocumentMoniker": "Fiel_Upload\\Services\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Services\\FileUpload.cs",
+              "RelativeToolTip": "Fiel_Upload\\Services\\FileUpload.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:27:49.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Fiel_Upload\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\manu_\\source\\repos\\ASP.NET\\Fiel_Upload\\Fiel_Upload\\Components\\Pages\\Home.razor*",
+              "RelativeToolTip": "Fiel_Upload\\Components\\Pages\\Home.razor*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-24T13:52:26.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
