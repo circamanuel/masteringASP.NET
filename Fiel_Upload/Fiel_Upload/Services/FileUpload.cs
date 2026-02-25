@@ -6,6 +6,7 @@ namespace File_Upload.Services
     public interface IFileUpload
     {
         Task UploadFile(IBrowserFile file);
+        Task<string> GeneratePreviewUrl(IBrowserFile file); 
     }
 
     public class FileUpload : IFileUpload
@@ -38,6 +39,26 @@ namespace File_Upload.Services
                     _logger.LogError(ex.ToString());
                 }
             }
+        }
+
+        public async Task<string> GeneratePreviewUrl(IBrowserFile file)
+        {
+            if (!file.ContentType.Contains("image")) 
+            {
+                if (file.ContentType.Contains("pdf"))
+                {
+                    return "images/pdf_logo.png";
+                }
+            }
+            
+            // Resize image to 100 x 100 Pixel
+            var resizedImage = await file.RequestImageFileAsync(file.ContentType, 100, 100);
+            // Reserve storage for file 
+            var buffer = new byte[resizedImage.Size];
+            // load file to storage
+            await resizedImage.OpenReadStream().ReadAsync(buffer);  
+            // transform date to binary string
+            return $"data: {file.ContentType};base64, {Convert.ToBase64String(buffer)}";
         }
     }
 }

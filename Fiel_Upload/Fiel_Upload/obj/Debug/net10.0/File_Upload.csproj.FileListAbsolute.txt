@@ -84,4 +84,5 @@ C:\Users\manu_\source\repos\ASP.NET\Fiel_Upload\Fiel_Upload\obj\Debug\net10.0\Fi
 C:\Users\manu_\source\repos\ASP.NET\Fiel_Upload\Fiel_Upload\obj\Debug\net10.0\ref\File_Upload.dll
 C:\Users\manu_\source\repos\ASP.NET\Fiel_Upload\Fiel_Upload\obj\Debug\net10.0\compressed\hzqtote67t-{0}-pm32bseske-pm32bseske.gz
 C:\Users\manu_\source\repos\ASP.NET\Fiel_Upload\Fiel_Upload\obj\Debug\net10.0\compressed\uc8ob1h4fe-{0}-pm32bseske-pm32bseske.gz
+C:\Users\manu_\source\repos\ASP.NET\Fiel_Upload\Fiel_Upload\obj\Debug\net10.0\compressed\70eiq976z9-{0}-qtasfenq8a-qtasfenq8a.gz
 C:\Users\manu_\source\repos\ASP.NET\Fiel_Upload\Fiel_Upload\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

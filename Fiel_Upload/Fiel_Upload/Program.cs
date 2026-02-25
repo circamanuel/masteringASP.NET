@@ -14,6 +14,8 @@ namespace File_Upload
                 .AddInteractiveServerComponents();
 
             builder.Services.AddScoped<IFileUpload, FileUpload>();
+            builder.Services.AddScoped<IFileDownload, FileDownload>();
+
 
             var app = builder.Build();
 

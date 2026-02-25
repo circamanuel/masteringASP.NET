@@ -1,5 +1,7 @@
 wwwroot\app.css
 wwwroot\favicon.png
+wwwroot\images\pdf_logo.png
+wwwroot\js\CustomScripts.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -45,7 +47,9 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\uploads\527e142393434816ceb3a294a98507b1.jpg
+wwwroot\uploads\e4157b49ffd91f2e01c5feeb8346493c.png
 wwwroot\uploads\eaeafd5f1e44f62c396a223a5091f8f1.jpg
+wwwroot\uploads\logo.png
 Components\Layout\ReconnectModal.razor.js
 C:\Users\manu_\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.2\build\..\_framework\blazor.web.js
 C:\Users\manu_\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.2\build\..\_framework\blazor.server.js
@@ -97,3 +101,4 @@ C:\Users\manu_\source\repos\ASP.NET\Fiel_Upload\Fiel_Upload\wwwroot\lib\bootstra
 C:\Users\manu_\source\repos\ASP.NET\Fiel_Upload\Fiel_Upload\Components\Layout\ReconnectModal.razor.js
 C:\Users\manu_\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.2\_framework\blazor.web.js
 C:\Users\manu_\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.2\_framework\blazor.server.js
+C:\Users\manu_\source\repos\ASP.NET\Fiel_Upload\Fiel_Upload\wwwroot\js\CustomScripts.js
